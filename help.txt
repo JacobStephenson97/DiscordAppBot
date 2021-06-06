@@ -1,0 +1,19 @@
+Command List:
+
+1) !help : Hello smile
+2) !apply : Bot DM's you to start application process
+3) !clear <Number>: Delete that number of messages from the chat log command was typed in
+4) !accept <@user> <@role> <message> : Sends <message> to <@user>, gives them the <@role>
+5) !reject <@user> <message> : Sends <message> to <@user> 
+6) !archive : sends the application to the appropriate archive
+7) !member_here : will tell the bot where to put all member discussions of applicants in the catagory that command was typed in
+8) !officer_here : will tell the bot where to put all officer discussions of applicants in the catagory that command was typed in
+9) !member_archive : will tell the bot where to archive the member discussions
+10) !officer_archive : will tell the bot where to archive the officer discussions
+11) !questions : spits out all the questions the applicants deal with nicely formatted. 
+12) !blacklist <@user> : prevents <@user>  from ever submitting an app here again
+13) !whitelist <@user> : removes <@user>  from the blacklist
+14) !banned : prints the blacklist
+15) !default accept <message> : there is a default message for accepting an applicant, this command changes the default
+16) !default reject <message> : there is a default message for rejecting an applicant, this command changes the default
+17) !delete : deletes a channel
